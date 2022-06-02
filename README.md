@@ -1,4 +1,4 @@
-# How work on this document:
+# How to use this template:
 
 This is a LaTeX-Project, which consists of multiple content files ending with .tex. These files contain the text and formatting commands which result in a PDF documented produced by latex. Basically all of the content in the .tex files can be edited using a normal text editor, so feel free to edit the document by making changes to the .tex files and committing your changes to the repository.
 
