@@ -9,7 +9,7 @@ If you however want to see the rendered result in form of a PDF file you will ha
 ### Prerequisites:
 
 - Install Visual-Studio-Code on your machine.
-  - On Linux: Use the .deb package version isntead of the Flatpak or Snap, otherwise the Remote Containers extension wont work properly.
+  - On Linux: Use the .deb package version instead of the Flatpak or Snap, otherwise the Remote Containers extension wont work properly.
 - Install Remote-Container-Extension in Visual-Studio-Code.
   - Link: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers
 - Install Docker-Host on your machine.
